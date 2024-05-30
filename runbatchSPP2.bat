@@ -1,0 +1,1 @@
+java -Xmx640m -cp .;.\classes;.\lib\colt.jar;.\lib\concurrent.jar clustering.ClusteringTester2 testdata\pcb3038_docs.txt testdata\pcb3038_properties_spp_1.txt dummy1 dummy2 clustering.KMeansSqrGuarantClusterer
